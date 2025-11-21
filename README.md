@@ -1,4 +1,4 @@
-# Cleaning Data Nashville Housing Portfolio Project
+# Cleaning Data Nashville Housing 
 
 
 This project cleans and standardizes the Nashville Housing real estate transactions dataset using SQL (T-SQL). It applies production-style data wrangling: enforcing correct data types, populating reliable fields, normalizing categorical values, splitting compound addresses into atomic columns, and safely removing duplicates. 
